@@ -16,7 +16,6 @@ which I have customized to match my profile and professional experience.
 ## **🛠 Tech Stack**
 - **Frontend:** React.js, Next.js, Tailwind CSS
 - **Backend:** Node.js, Express.js, Nodemailer (for email)
-- **Database:** MongoDB 
 - **Other Tools:** GitHub Actions, Telegram API, Email Services
 
 ---
