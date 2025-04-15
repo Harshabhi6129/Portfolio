@@ -46,8 +46,8 @@ which has been **modified** to better suit my portfolio.
 ---
 
 ### **📬 Let's Connect!**
-🔗 **Portfolio:** [https://portfolio-git-main-harsha-abhinav-kusampudis-projects.vercel.app/](https://portfolio-git-main-harsha-abhinav-kusampudis-projects.vercel.app/) 
-🔗 **GitHub:** [HARSHA ABHINAV](https://github.com/Harshabhi6129/)  
+🔗 **Portfolio:** [https://portfolio-git-main-harsha-abhinav-kusampudis-projects.vercel.app/](https://portfolio-git-main-harsha-abhinav-kusampudis-projects.vercel.app) 
+🔗 **GitHub:** [HARSHA ABHINAV](https://github.com/Harshabhi6129?tab=repositories)  
 🔗 **LinkedIn:** [HARSHA ABHINAV](https://www.linkedin.com/in/harsha-abhinav)  
 
 
