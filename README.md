@@ -1,6 +1,6 @@
 # **Harsha Abhinav – Portfolio 🚀**
 
-This is my personal ** portfolio**, built with **Next.js, React, Node.js, and Tailwind CSS**.  
+This is my personal **portfolio**, built with **Next.js, React, Node.js, and Tailwind CSS**.  
 It showcases my **projects, skills, experience, and contact details** in a clean, interactive format.
 
 ### **🔗 Live Preview:** [www.harsha_abhinav_portfolio.com](https://portfolio-git-main-harsha-abhinav-kusampudis-projects.vercel.app/)
@@ -16,7 +16,7 @@ which I have customized to match my profile and professional experience.
 ## **🛠 Tech Stack**
 - **Frontend:** React.js, Next.js, Tailwind CSS
 - **Backend:** Node.js, Express.js, Nodemailer (for email)
-- **Database:** MongoDB (if applicable)
+- **Database:** MongoDB 
 - **Other Tools:** GitHub Actions, Telegram API, Email Services
 
 ---
