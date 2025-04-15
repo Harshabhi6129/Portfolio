@@ -3,7 +3,7 @@
 This is my personal ** portfolio**, built with **Next.js, React, Node.js, and Tailwind CSS**.  
 It showcases my **projects, skills, experience, and contact details** in a clean, interactive format.
 
-### **🔗 Live Preview:** [www.harsha_portfolio.com](https://www.bhavana_portfolio.com)
+### **🔗 Live Preview:** [www.harsha_abhinav_portfolio.com](https://portfolio-git-main-harsha-abhinav-kusampudis-projects.vercel.app/)
 
 ---
 
@@ -46,8 +46,8 @@ which has been **modified** to better suit my portfolio.
 ---
 
 ### **📬 Let's Connect!**
-🔗 **Portfolio:** [https://portfolio-git-main-bhavana-mallineni.vercel.app/](https://portfolio-git-main-bhavana-mallineni.vercel.app/)  
-🔗 **GitHub:** [HARSHA ABHINAV](https://github.com/Harshabhi6129?tab=repositories)  
-🔗 **LinkedIn:** [HARSHA ABHINAV](https://www.linkedin.com/in/harsha-abhinav/details/projects/)  
+🔗 **Portfolio:** [https://portfolio-git-main-harsha-abhinav-kusampudis-projects.vercel.app/](https://portfolio-git-main-harsha-abhinav-kusampudis-projects.vercel.app/) 
+🔗 **GitHub:** [HARSHA ABHINAV](https://github.com/Harshabhi6129/)  
+🔗 **LinkedIn:** [HARSHA ABHINAV](https://www.linkedin.com/in/harsha-abhinav)  
 
 
