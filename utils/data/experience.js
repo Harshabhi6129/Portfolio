@@ -3,24 +3,13 @@ export const experiences = [
 		id: 1,
 		title: "Generative AI Intern",
 		company: "BCG X",
-		duration: "Nov 2024 - Jan 2025",
+		duration: "Jan 2024 - June 2024",
 		techStack: ["Python", "Data Science", "NumPy", "Generative AI", "Machine Learning"],
 		description: [
-			"Completed a job simulation involving AI-powered financial chatbot development for BCG's GenAI Consulting team.",
-			"Gained experience in Python programming, including the use of libraries such as pandas for data manipulation.",
-			"Integrated and interpreted complex financial data from 10-K and 10-Q reports, employing rule-based logic to create a chatbot that provides user-friendly financial insights and analysis."
-		]
-	},
-	{
-		id: 2,
-		title: "Data Visualization Intern",
-		company: "Tata Group",
-		duration: "Jun 2024",
-		techStack: ["Tableau", "SQL", "Data Visualization"],
-		description: [
-			"Generated interactive Tableau dashboards, enabling to identify three key ine#iciencies from simulated data.",
-			"Optimized SQL queries and data blending, reducing data processing latency by 40% for real-time analytics.",
-			"Enhanced dashboard UX with advanced Tableau features, improving clarity and usability for executive decision-making."
+			"Built a Python-based LLM chatbot that extracted insights from 10-K/10-Q filings with 95% accuracy.",
+			"Built structured NLP pipelines and deployed the solution on AWS SageMaker for scalable inference.",
+			"Boosted response time by 30% by optimizing entity recognition, prompt design, and vector search via Pinecone."
+			"Processed millions of financial rows with Spark and SQL to enable real-time query resolution and trend analysis."
 		]
 	},
 	{
@@ -30,10 +19,21 @@ export const experiences = [
 		duration: "Dec 2023 - Jun 2024",
 		techStack: ["Data Science, Data Visualization, Machine Learning, MLOps, Data Analytics"],
 		description: [
-			"Processed and cleaned large-scale supply chain datasets, handled missing values, outliers, and ensured data consistency for accurate demand forecasting.",
-			"Developed interactive Power BI dashboards to visualize inventory trends, demand fluctuations, and restocking patterns, aiding data-driven decision-making.",
-			"Containerized forecasting models using Docker and integrated automated pipelines (Airflow) for continuous data updates and model retraining.",
-			"Optimized warehouse inventory management by implementing a demand forecasting system, reducing stockouts by 20% and improving supply chain efficiency."
+			"Cleaned and modeled multi-source supply chain data using Python (Pandas) and SQL for scalable demand forecasting",
+			"Developed real-time inventory dashboards in Power BI with DAX measures and automated SQL refresh pipelines.",
+			"Deployed forecasting models in Docker and automated CI/CD retraining via Apache Airflow, reducing stockouts by 20%"
 		]
 	}
+	{
+		id: 2,
+		title: "Data analytics Intern",
+		company: "Tata Group",
+		duration: "July 2022 – Oct 2022",
+		techStack: ["Tableau", "SQL", "Data Visualization"],
+		description: [
+			"Built Tableau dashboards on 500K+ row datasets using optimized SQL joins, data blending, and calculated fields.",
+			"Accelerated real-time analytics by 40% through ETL pipeline tuning with Apache Hive and distributed processing in Spark.",
+			"Delivered executive insights by integrating R-driven statistical models with cloud-synced data pipelines."
+		]
+	},
 ];
