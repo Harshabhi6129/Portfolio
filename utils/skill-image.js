@@ -85,10 +85,12 @@ import linux from "../app/assets/svg/skills/linux.svg";
 import sqlalchemy from "../app/assets/svg/skills/sqlalchemy.svg";
 import fastapi from "../app/assets/svg/skills/fastapi.svg";
 import chromadb from "../app/assets/svg/skills/chromadb.svg";
-
+import matplotlib from "../app/assets/svg/skills/Matplotlib_icon.svg.png";
 export const skillsImage = (skill) => {
 	const skillID = skill.toLowerCase();
 	switch (skillID) {
+		case "matlplotlib":
+			return matplotlib;
 		case "chromadb":
 			return chromadb;
 		case "chatgpt":
