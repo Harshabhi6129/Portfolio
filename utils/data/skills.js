@@ -24,7 +24,7 @@ export const skillsData = [
 	"Deep Learning",
 	"Natural Language Processing",
 	"ChatGPT",
-	"Llamma"
+	"Llamma",
 	"ChromaDB",
 	"Hugging Face",
 	"LangChain",
