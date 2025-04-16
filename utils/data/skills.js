@@ -32,6 +32,7 @@ export const skillsData = [
 	"Streamlit",
 	"Visual Code Studio",
 	"Jupyter"
+	"Kaggle"
 ];
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
