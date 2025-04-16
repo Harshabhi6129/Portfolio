@@ -23,7 +23,7 @@ export const experiences = [
 			"Developed real-time inventory dashboards in Power BI with DAX measures and automated SQL refresh pipelines.",
 			"Deployed forecasting models in Docker and automated CI/CD retraining via Apache Airflow, reducing stockouts by 20%"
 		]
-	}
+	},
 	{
 		id: 2,
 		title: "Data analytics Intern",
