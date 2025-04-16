@@ -1,21 +1,37 @@
 export const skillsData = [
+	"C",
+	"C++",
+	"Python",
 	"NumPy",
 	"Pandas",
+	"Matplotlib",
+	"Seaborn",
 	"Scikit-Learn",
-	"OpenCV",
+	"ETL",
+	"Apache Spark",
+	"Data Modelling",
+	"Tableau",
+	"PowerBI",
+	"Pytorch",
 	"TensorFlow",
 	"FastAPI",
 	"MongoDB",
 	"MySQL",
 	"PostgreSQL",
 	"Git",
+	"Docker",
 	"Machine Learning",
-	"AI",
-	"C",
-	"C++",
-	"Python",
+	"Deep Learning",
+	"Natural Language Processing",
 	"ChatGPT",
-	"ChromaDB"
+	"Llamma"
+	"ChromaDB",
+	"Hugging Face",
+	"LangChain",
+	"AWS",
+	"Streamlit",
+	"Visual Code Studio",
+	"Jupyter"
 ];
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
