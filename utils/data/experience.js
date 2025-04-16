@@ -8,7 +8,7 @@ export const experiences = [
 		description: [
 			"Built a Python-based LLM chatbot that extracted insights from 10-K/10-Q filings with 95% accuracy.",
 			"Built structured NLP pipelines and deployed the solution on AWS SageMaker for scalable inference.",
-			"Boosted response time by 30% by optimizing entity recognition, prompt design, and vector search via Pinecone."
+			"Boosted response time by 30% by optimizing entity recognition, prompt design, and vector search via Pinecone.",
 			"Processed millions of financial rows with Spark and SQL to enable real-time query resolution and trend analysis."
 		]
 	},
