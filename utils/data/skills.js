@@ -31,7 +31,7 @@ export const skillsData = [
 	"AWS",
 	"Streamlit",
 	"Visual Code Studio",
-	"Jupyter"
+	"Jupyter",
 	"Kaggle"
 ];
 
